@@ -1,0 +1,11 @@
+D:\Assignment02\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.exe
+D:\Assignment02\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.deps.json
+D:\Assignment02\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.runtimeconfig.json
+D:\Assignment02\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.runtimeconfig.dev.json
+D:\Assignment02\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.dll
+D:\Assignment02\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.pdb
+D:\Assignment02\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.csprojAssemblyReference.cache
+D:\Assignment02\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.AssemblyInfoInputs.cache
+D:\Assignment02\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.AssemblyInfo.cs
+D:\Assignment02\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.dll
+D:\Assignment02\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.pdb
